@@ -6,7 +6,7 @@
 
 # 项目工作
 
-##查看 ./jasmine/spec/feedreader.js进行下面几项测试用例编写
+查看 ./jasmine/spec/feedreader.js进行下面几项测试用例编写
 
 
 1. 编写一个测试遍历 allFeeds 对象里面的所有的源来保证有链接字段而且链接不是空的。
